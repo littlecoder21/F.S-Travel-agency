@@ -1,0 +1,463 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "view": "View",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "reset": "Reset",
+    "close": "Close",
+    "open": "Open",
+    "yes": "Yes",
+    "no": "No",
+    "confirm": "Confirm",
+    "select": "Select",
+    "all": "All",
+    "none": "None",
+    "more": "More",
+    "less": "Less",
+    "show": "Show",
+    "hide": "Hide",
+    "add": "Add",
+    "remove": "Remove",
+    "update": "Update",
+    "create": "Create",
+    "details": "Details",
+    "price": "Price",
+    "duration": "Duration",
+    "rating": "Rating",
+    "reviews": "Reviews",
+    "book": "Book Now",
+    "bookNow": "Book Now",
+    "learnMore": "Learn More",
+    "contactUs": "Contact Us",
+    "getStarted": "Get Started",
+    "explore": "Explore",
+    "discover": "Discover",
+    "experience": "Experience",
+    "adventure": "Adventure",
+    "luxury": "Luxury",
+    "budget": "Budget",
+    "family": "Family",
+    "cultural": "Cultural",
+    "relaxation": "Relaxation"
+  },
+  "navigation": {
+    "home": "Home",
+    "destinations": "Destinations",
+    "packages": "Packages",
+    "flights": "Flights",
+    "hotels": "Hotels",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login",
+    "register": "Register",
+    "profile": "Profile",
+    "logout": "Logout",
+    "admin": "Admin",
+    "dashboard": "Dashboard",
+    "settings": "Settings",
+    "users": "Users",
+    "bookings": "Bookings",
+    "myBookings": "My Bookings"
+  },
+  "home": {
+    "hero": {
+      "title": "Discover Your Next Adventure",
+      "subtitle": "Explore the world with our curated travel experiences",
+      "welcome": "Welcome to",
+      "contactButton": "Contact Us",
+      "searchPlaceholder": "Where do you want to go?"
+    },
+    "searchForms": {
+      "flight": "Flight Search",
+      "hotel": "Hotel Search",
+      "destination": "Destination Search",
+      "roundTrip": "Round Trip",
+      "oneWay": "One Way",
+      "multiCity": "Multi City",
+      "from": "From",
+      "to": "To",
+      "departure": "Departure",
+      "return": "Return",
+      "passengers": "Passengers",
+      "adults": "Adults",
+      "children": "Children",
+      "infants": "Infants",
+      "class": "Class",
+      "economy": "Economy",
+      "business": "Business",
+      "first": "First",
+      "location": "Location",
+      "checkIn": "Check In",
+      "checkOut": "Check Out",
+      "guests": "Guests",
+      "rooms": "Rooms",
+      "search": "Search",
+      "searchFlights": "Search Flights",
+      "searchHotels": "Search Hotels",
+      "searchDestinations": "Search Destinations"
+    },
+    "discounts": {
+      "title": "Special Offers",
+      "subtitle": "Limited time deals on amazing destinations",
+      "viewAll": "View All Offers"
+    },
+    "topDestinations": {
+      "title": "Top Destinations",
+      "subtitle": "Most popular places to visit"
+    },
+    "localDestinations": {
+      "title": "Local Destinations",
+      "subtitle": "Explore amazing places near you",
+      "showMore": "Show More"
+    },
+    "internationalDestinations": {
+      "title": "International Destinations",
+      "subtitle": "Discover the world's most beautiful places",
+      "showMore": "Show More"
+    },
+    "featuredPackages": {
+      "title": "Featured Packages",
+      "subtitle": "Handpicked travel experiences",
+      "showMore": "Show More",
+      "createCustom": "Create Custom Package"
+    }
+  },
+  "destinations": {
+    "title": "Destinations",
+    "subtitle": "Explore amazing places around the world",
+    "filters": {
+      "all": "All Destinations",
+      "local": "Local",
+      "international": "International",
+      "featured": "Featured",
+      "country": "Country",
+      "city": "City",
+      "priceRange": "Price Range",
+      "rating": "Rating"
+    },
+    "sort": {
+      "name": "Name",
+      "price": "Price",
+      "rating": "Rating",
+      "popularity": "Popularity"
+    },
+    "details": {
+      "overview": "Overview",
+      "highlights": "Highlights",
+      "activities": "Activities",
+      "bestTime": "Best Time to Visit",
+      "weather": "Weather",
+      "location": "Location",
+      "gallery": "Gallery",
+      "reviews": "Reviews",
+      "related": "Related Destinations",
+      "bookNow": "Book Now",
+      "addToWishlist": "Add to Wishlist",
+      "share": "Share"
+    }
+  },
+  "packages": {
+    "title": "Travel Packages",
+    "subtitle": "Curated experiences for every traveler",
+    "filters": {
+      "all": "All Packages",
+      "featured": "Featured",
+      "category": "Category",
+      "duration": "Duration",
+      "priceRange": "Price Range",
+      "difficulty": "Difficulty"
+    },
+    "categories": {
+      "adventure": "Adventure",
+      "cultural": "Cultural",
+      "relaxation": "Relaxation",
+      "luxury": "Luxury",
+      "budget": "Budget",
+      "family": "Family"
+    },
+    "difficulty": {
+      "easy": "Easy",
+      "moderate": "Moderate",
+      "challenging": "Challenging",
+      "expert": "Expert"
+    },
+    "details": {
+      "overview": "Overview",
+      "itinerary": "Itinerary",
+      "inclusions": "What's Included",
+      "exclusions": "What's Not Included",
+      "accommodation": "Accommodation",
+      "transportation": "Transportation",
+      "meals": "Meals",
+      "activities": "Activities",
+      "gallery": "Gallery",
+      "reviews": "Reviews",
+      "related": "Related Packages",
+      "bookNow": "Book Now",
+      "customize": "Customize Package"
+    },
+    "custom": {
+      "title": "Create Custom Package",
+      "subtitle": "Design your perfect travel experience",
+      "steps": {
+        "destinations": "Choose Destinations",
+        "preferences": "Set Preferences",
+        "review": "Review & Book"
+      },
+      "preferences": {
+        "accommodation": "Accommodation Type",
+        "transportation": "Transportation",
+        "activities": "Activities",
+        "budget": "Budget Range",
+        "groupSize": "Group Size"
+      }
+    }
+  },
+  "flights": {
+    "title": "Flight Search",
+    "subtitle": "Find the best flights to your destination",
+    "search": {
+      "title": "Search Flights",
+      "from": "From",
+      "to": "To",
+      "departure": "Departure Date",
+      "return": "Return Date",
+      "passengers": "Passengers",
+      "class": "Class",
+      "search": "Search Flights"
+    },
+    "results": {
+      "title": "Flight Results",
+      "noResults": "No flights found",
+      "filters": "Filters",
+      "sort": "Sort by"
+    },
+    "details": {
+      "airline": "Airline",
+      "flightNumber": "Flight Number",
+      "duration": "Duration",
+      "stops": "Stops",
+      "departure": "Departure",
+      "arrival": "Arrival",
+      "price": "Price",
+      "select": "Select Flight"
+    }
+  },
+  "hotels": {
+    "title": "Hotel Search",
+    "subtitle": "Find the perfect place to stay",
+    "search": {
+      "title": "Search Hotels",
+      "location": "Location",
+      "checkIn": "Check In",
+      "checkOut": "Check Out",
+      "guests": "Guests",
+      "rooms": "Rooms",
+      "search": "Search Hotels"
+    },
+    "results": {
+      "title": "Hotel Results",
+      "noResults": "No hotels found",
+      "filters": "Filters",
+      "sort": "Sort by"
+    },
+    "details": {
+      "amenities": "Amenities",
+      "roomTypes": "Room Types",
+      "checkIn": "Check In",
+      "checkOut": "Check Out",
+      "price": "Price per night",
+      "total": "Total Price",
+      "book": "Book Hotel"
+    }
+  },
+  "booking": {
+    "title": "Booking",
+    "flight": "Flight Booking",
+    "hotel": "Hotel Booking",
+    "package": "Package Booking",
+    "steps": {
+      "details": "Booking Details",
+      "passengers": "Passenger Information",
+      "payment": "Payment",
+      "confirmation": "Confirmation"
+    },
+    "passengers": {
+      "title": "Passenger Information",
+      "adults": "Adults",
+      "children": "Children",
+      "infants": "Infants",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phone": "Phone",
+      "passport": "Passport Number",
+      "dateOfBirth": "Date of Birth",
+      "nationality": "Nationality"
+    },
+    "payment": {
+      "title": "Payment",
+      "summary": "Booking Summary",
+      "total": "Total Amount",
+      "cardNumber": "Card Number",
+      "expiry": "Expiry Date",
+      "cvv": "CVV",
+      "name": "Cardholder Name",
+      "pay": "Pay Now"
+    },
+    "confirmation": {
+      "title": "Booking Confirmed",
+      "message": "Your booking has been confirmed",
+      "bookingNumber": "Booking Number",
+      "email": "Confirmation email sent to",
+      "download": "Download Receipt"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Login",
+      "subtitle": "Welcome back! Please login to your account",
+      "email": "Email",
+      "password": "Password",
+      "rememberMe": "Remember me",
+      "forgotPassword": "Forgot password?",
+      "login": "Login",
+      "noAccount": "Don't have an account?",
+      "register": "Register"
+    },
+    "register": {
+      "title": "Register",
+      "subtitle": "Create your account to start booking",
+      "name": "Full Name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "phone": "Phone",
+      "register": "Register",
+      "hasAccount": "Already have an account?",
+      "login": "Login"
+    },
+    "profile": {
+      "title": "Profile",
+      "personalInfo": "Personal Information",
+      "preferences": "Preferences",
+      "bookings": "My Bookings",
+      "changePassword": "Change Password",
+      "currentPassword": "Current Password",
+      "newPassword": "New Password",
+      "confirmNewPassword": "Confirm New Password",
+      "update": "Update Profile"
+    }
+  },
+  "admin": {
+    "dashboard": {
+      "title": "Admin Dashboard",
+      "stats": {
+        "users": "Total Users",
+        "destinations": "Total Destinations",
+        "packages": "Total Packages",
+        "bookings": "Total Bookings",
+        "revenue": "Total Revenue"
+      },
+      "recent": {
+        "bookings": "Recent Bookings",
+        "users": "Recent Users",
+        "activities": "Recent Activities"
+      }
+    },
+    "settings": {
+      "title": "Website Settings",
+      "website": "Website Information",
+      "features": "Feature Management",
+      "languages": "Languages",
+      "currencies": "Currencies",
+      "email": "Email Settings",
+      "payment": "Payment Settings",
+      "seo": "SEO Settings"
+    },
+    "users": {
+      "title": "User Management",
+      "addUser": "Add User",
+      "editUser": "Edit User",
+      "deleteUser": "Delete User",
+      "search": "Search Users",
+      "filter": "Filter by Role"
+    },
+    "destinations": {
+      "title": "Destination Management",
+      "addDestination": "Add Destination",
+      "editDestination": "Edit Destination",
+      "deleteDestination": "Delete Destination",
+      "featured": "Featured Destinations"
+    },
+    "packages": {
+      "title": "Package Management",
+      "addPackage": "Add Package",
+      "editPackage": "Edit Package",
+      "deletePackage": "Delete Package",
+      "featured": "Featured Packages"
+    }
+  },
+  "errors": {
+    "404": {
+      "title": "Page Not Found",
+      "message": "The page you're looking for doesn't exist",
+      "backHome": "Back to Home"
+    },
+    "500": {
+      "title": "Server Error",
+      "message": "Something went wrong on our end",
+      "tryAgain": "Try Again"
+    },
+    "network": {
+      "title": "Network Error",
+      "message": "Please check your internet connection",
+      "retry": "Retry"
+    }
+  },
+  "validation": {
+    "required": "This field is required",
+    "email": "Please enter a valid email",
+    "password": "Password must be at least 6 characters",
+    "confirmPassword": "Passwords do not match",
+    "phone": "Please enter a valid phone number",
+    "date": "Please enter a valid date",
+    "number": "Please enter a valid number",
+    "minLength": "Must be at least {{min}} characters",
+    "maxLength": "Must be no more than {{max}} characters",
+    "minValue": "Must be at least {{min}}",
+    "maxValue": "Must be no more than {{max}}"
+  },
+  "messages": {
+    "bookingSuccess": "Booking confirmed successfully!",
+    "bookingError": "Failed to create booking. Please try again.",
+    "loginSuccess": "Login successful!",
+    "loginError": "Invalid email or password.",
+    "registerSuccess": "Registration successful!",
+    "registerError": "Registration failed. Please try again.",
+    "profileUpdateSuccess": "Profile updated successfully!",
+    "profileUpdateError": "Failed to update profile. Please try again.",
+    "passwordChangeSuccess": "Password changed successfully!",
+    "passwordChangeError": "Failed to change password. Please try again.",
+    "logoutSuccess": "Logged out successfully!",
+    "deleteConfirm": "Are you sure you want to delete this item?",
+    "deleteSuccess": "Item deleted successfully!",
+    "deleteError": "Failed to delete item. Please try again.",
+    "saveSuccess": "Saved successfully!",
+    "saveError": "Failed to save. Please try again.",
+    "featureToggleSuccess": "Feature updated successfully!",
+    "featureToggleError": "Failed to update feature. Please try again."
+  }
+}
