@@ -1,0 +1,463 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "success": "¡Éxito!",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "sort": "Ordenar",
+    "view": "Ver",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "submit": "Enviar",
+    "reset": "Restablecer",
+    "close": "Cerrar",
+    "open": "Abrir",
+    "yes": "Sí",
+    "no": "No",
+    "confirm": "Confirmar",
+    "select": "Seleccionar",
+    "all": "Todos",
+    "none": "Ninguno",
+    "more": "Más",
+    "less": "Menos",
+    "show": "Mostrar",
+    "hide": "Ocultar",
+    "add": "Agregar",
+    "remove": "Eliminar",
+    "update": "Actualizar",
+    "create": "Crear",
+    "details": "Detalles",
+    "price": "Precio",
+    "duration": "Duración",
+    "rating": "Calificación",
+    "reviews": "Reseñas",
+    "book": "Reservar Ahora",
+    "bookNow": "Reservar Ahora",
+    "learnMore": "Saber Más",
+    "contactUs": "Contáctanos",
+    "getStarted": "Comenzar",
+    "explore": "Explorar",
+    "discover": "Descubrir",
+    "experience": "Experiencia",
+    "adventure": "Aventura",
+    "luxury": "Lujo",
+    "budget": "Económico",
+    "family": "Familiar",
+    "cultural": "Cultural",
+    "relaxation": "Relajación"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "destinations": "Destinos",
+    "packages": "Paquetes",
+    "flights": "Vuelos",
+    "hotels": "Hoteles",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "login": "Iniciar Sesión",
+    "register": "Registrarse",
+    "profile": "Perfil",
+    "logout": "Cerrar Sesión",
+    "admin": "Administrador",
+    "dashboard": "Panel de Control",
+    "settings": "Configuración",
+    "users": "Usuarios",
+    "bookings": "Reservas",
+    "myBookings": "Mis Reservas"
+  },
+  "home": {
+    "hero": {
+      "title": "Descubre Tu Próxima Aventura",
+      "subtitle": "Explora el mundo con nuestras experiencias de viaje curadas",
+      "welcome": "Bienvenido a",
+      "contactButton": "Contáctanos",
+      "searchPlaceholder": "¿A dónde quieres ir?"
+    },
+    "searchForms": {
+      "flight": "Búsqueda de Vuelos",
+      "hotel": "Búsqueda de Hoteles",
+      "destination": "Búsqueda de Destinos",
+      "roundTrip": "Ida y Vuelta",
+      "oneWay": "Solo Ida",
+      "multiCity": "Múltiples Ciudades",
+      "from": "Desde",
+      "to": "Hacia",
+      "departure": "Salida",
+      "return": "Regreso",
+      "passengers": "Pasajeros",
+      "adults": "Adultos",
+      "children": "Niños",
+      "infants": "Bebés",
+      "class": "Clase",
+      "economy": "Económica",
+      "business": "Ejecutiva",
+      "first": "Primera",
+      "location": "Ubicación",
+      "checkIn": "Llegada",
+      "checkOut": "Salida",
+      "guests": "Huéspedes",
+      "rooms": "Habitaciones",
+      "search": "Buscar",
+      "searchFlights": "Buscar Vuelos",
+      "searchHotels": "Buscar Hoteles",
+      "searchDestinations": "Buscar Destinos"
+    },
+    "discounts": {
+      "title": "Ofertas Especiales",
+      "subtitle": "Ofertas por tiempo limitado en destinos increíbles",
+      "viewAll": "Ver Todas las Ofertas"
+    },
+    "topDestinations": {
+      "title": "Destinos Principales",
+      "subtitle": "Los lugares más populares para visitar"
+    },
+    "localDestinations": {
+      "title": "Destinos Locales",
+      "subtitle": "Explora lugares increíbles cerca de ti",
+      "showMore": "Ver Más"
+    },
+    "internationalDestinations": {
+      "title": "Destinos Internacionales",
+      "subtitle": "Descubre los lugares más hermosos del mundo",
+      "showMore": "Ver Más"
+    },
+    "featuredPackages": {
+      "title": "Paquetes Destacados",
+      "subtitle": "Experiencias de viaje seleccionadas",
+      "showMore": "Ver Más",
+      "createCustom": "Crear Paquete Personalizado"
+    }
+  },
+  "destinations": {
+    "title": "Destinos",
+    "subtitle": "Explora lugares increíbles alrededor del mundo",
+    "filters": {
+      "all": "Todos los Destinos",
+      "local": "Local",
+      "international": "Internacional",
+      "featured": "Destacados",
+      "country": "País",
+      "city": "Ciudad",
+      "priceRange": "Rango de Precio",
+      "rating": "Calificación"
+    },
+    "sort": {
+      "name": "Nombre",
+      "price": "Precio",
+      "rating": "Calificación",
+      "popularity": "Popularidad"
+    },
+    "details": {
+      "overview": "Resumen",
+      "highlights": "Destacados",
+      "activities": "Actividades",
+      "bestTime": "Mejor Época para Visitar",
+      "weather": "Clima",
+      "location": "Ubicación",
+      "gallery": "Galería",
+      "reviews": "Reseñas",
+      "related": "Destinos Relacionados",
+      "bookNow": "Reservar Ahora",
+      "addToWishlist": "Agregar a Lista de Deseos",
+      "share": "Compartir"
+    }
+  },
+  "packages": {
+    "title": "Paquetes de Viaje",
+    "subtitle": "Experiencias curadas para cada viajero",
+    "filters": {
+      "all": "Todos los Paquetes",
+      "featured": "Destacados",
+      "category": "Categoría",
+      "duration": "Duración",
+      "priceRange": "Rango de Precio",
+      "difficulty": "Dificultad"
+    },
+    "categories": {
+      "adventure": "Aventura",
+      "cultural": "Cultural",
+      "relaxation": "Relajación",
+      "luxury": "Lujo",
+      "budget": "Económico",
+      "family": "Familiar"
+    },
+    "difficulty": {
+      "easy": "Fácil",
+      "moderate": "Moderado",
+      "challenging": "Desafiante",
+      "expert": "Experto"
+    },
+    "details": {
+      "overview": "Resumen",
+      "itinerary": "Itinerario",
+      "inclusions": "Lo que Incluye",
+      "exclusions": "Lo que No Incluye",
+      "accommodation": "Alojamiento",
+      "transportation": "Transporte",
+      "meals": "Comidas",
+      "activities": "Actividades",
+      "gallery": "Galería",
+      "reviews": "Reseñas",
+      "related": "Paquetes Relacionados",
+      "bookNow": "Reservar Ahora",
+      "customize": "Personalizar Paquete"
+    },
+    "custom": {
+      "title": "Crear Paquete Personalizado",
+      "subtitle": "Diseña tu experiencia de viaje perfecta",
+      "steps": {
+        "destinations": "Elegir Destinos",
+        "preferences": "Establecer Preferencias",
+        "review": "Revisar y Reservar"
+      },
+      "preferences": {
+        "accommodation": "Tipo de Alojamiento",
+        "transportation": "Transporte",
+        "activities": "Actividades",
+        "budget": "Rango de Presupuesto",
+        "groupSize": "Tamaño del Grupo"
+      }
+    }
+  },
+  "flights": {
+    "title": "Búsqueda de Vuelos",
+    "subtitle": "Encuentra los mejores vuelos a tu destino",
+    "search": {
+      "title": "Buscar Vuelos",
+      "from": "Desde",
+      "to": "Hacia",
+      "departure": "Fecha de Salida",
+      "return": "Fecha de Regreso",
+      "passengers": "Pasajeros",
+      "class": "Clase",
+      "search": "Buscar Vuelos"
+    },
+    "results": {
+      "title": "Resultados de Vuelos",
+      "noResults": "No se encontraron vuelos",
+      "filters": "Filtros",
+      "sort": "Ordenar por"
+    },
+    "details": {
+      "airline": "Aerolínea",
+      "flightNumber": "Número de Vuelo",
+      "duration": "Duración",
+      "stops": "Escalas",
+      "departure": "Salida",
+      "arrival": "Llegada",
+      "price": "Precio",
+      "select": "Seleccionar Vuelo"
+    }
+  },
+  "hotels": {
+    "title": "Búsqueda de Hoteles",
+    "subtitle": "Encuentra el lugar perfecto para hospedarte",
+    "search": {
+      "title": "Buscar Hoteles",
+      "location": "Ubicación",
+      "checkIn": "Llegada",
+      "checkOut": "Salida",
+      "guests": "Huéspedes",
+      "rooms": "Habitaciones",
+      "search": "Buscar Hoteles"
+    },
+    "results": {
+      "title": "Resultados de Hoteles",
+      "noResults": "No se encontraron hoteles",
+      "filters": "Filtros",
+      "sort": "Ordenar por"
+    },
+    "details": {
+      "amenities": "Servicios",
+      "roomTypes": "Tipos de Habitación",
+      "checkIn": "Llegada",
+      "checkOut": "Salida",
+      "price": "Precio por noche",
+      "total": "Precio Total",
+      "book": "Reservar Hotel"
+    }
+  },
+  "booking": {
+    "title": "Reserva",
+    "flight": "Reserva de Vuelo",
+    "hotel": "Reserva de Hotel",
+    "package": "Reserva de Paquete",
+    "steps": {
+      "details": "Detalles de la Reserva",
+      "passengers": "Información de Pasajeros",
+      "payment": "Pago",
+      "confirmation": "Confirmación"
+    },
+    "passengers": {
+      "title": "Información de Pasajeros",
+      "adults": "Adultos",
+      "children": "Niños",
+      "infants": "Bebés",
+      "firstName": "Nombre",
+      "lastName": "Apellido",
+      "email": "Correo Electrónico",
+      "phone": "Teléfono",
+      "passport": "Número de Pasaporte",
+      "dateOfBirth": "Fecha de Nacimiento",
+      "nationality": "Nacionalidad"
+    },
+    "payment": {
+      "title": "Pago",
+      "summary": "Resumen de la Reserva",
+      "total": "Monto Total",
+      "cardNumber": "Número de Tarjeta",
+      "expiry": "Fecha de Vencimiento",
+      "cvv": "CVV",
+      "name": "Nombre del Titular",
+      "pay": "Pagar Ahora"
+    },
+    "confirmation": {
+      "title": "Reserva Confirmada",
+      "message": "Tu reserva ha sido confirmada",
+      "bookingNumber": "Número de Reserva",
+      "email": "Correo de confirmación enviado a",
+      "download": "Descargar Recibo"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Iniciar Sesión",
+      "subtitle": "¡Bienvenido de vuelta! Por favor inicia sesión en tu cuenta",
+      "email": "Correo Electrónico",
+      "password": "Contraseña",
+      "rememberMe": "Recordarme",
+      "forgotPassword": "¿Olvidaste tu contraseña?",
+      "login": "Iniciar Sesión",
+      "noAccount": "¿No tienes una cuenta?",
+      "register": "Registrarse"
+    },
+    "register": {
+      "title": "Registrarse",
+      "subtitle": "Crea tu cuenta para comenzar a reservar",
+      "name": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "password": "Contraseña",
+      "confirmPassword": "Confirmar Contraseña",
+      "phone": "Teléfono",
+      "register": "Registrarse",
+      "hasAccount": "¿Ya tienes una cuenta?",
+      "login": "Iniciar Sesión"
+    },
+    "profile": {
+      "title": "Perfil",
+      "personalInfo": "Información Personal",
+      "preferences": "Preferencias",
+      "bookings": "Mis Reservas",
+      "changePassword": "Cambiar Contraseña",
+      "currentPassword": "Contraseña Actual",
+      "newPassword": "Nueva Contraseña",
+      "confirmNewPassword": "Confirmar Nueva Contraseña",
+      "update": "Actualizar Perfil"
+    }
+  },
+  "admin": {
+    "dashboard": {
+      "title": "Panel de Administración",
+      "stats": {
+        "users": "Total de Usuarios",
+        "destinations": "Total de Destinos",
+        "packages": "Total de Paquetes",
+        "bookings": "Total de Reservas",
+        "revenue": "Ingresos Totales"
+      },
+      "recent": {
+        "bookings": "Reservas Recientes",
+        "users": "Usuarios Recientes",
+        "activities": "Actividades Recientes"
+      }
+    },
+    "settings": {
+      "title": "Configuración del Sitio Web",
+      "website": "Información del Sitio Web",
+      "features": "Gestión de Funciones",
+      "languages": "Idiomas",
+      "currencies": "Monedas",
+      "email": "Configuración de Correo",
+      "payment": "Configuración de Pago",
+      "seo": "Configuración SEO"
+    },
+    "users": {
+      "title": "Gestión de Usuarios",
+      "addUser": "Agregar Usuario",
+      "editUser": "Editar Usuario",
+      "deleteUser": "Eliminar Usuario",
+      "search": "Buscar Usuarios",
+      "filter": "Filtrar por Rol"
+    },
+    "destinations": {
+      "title": "Gestión de Destinos",
+      "addDestination": "Agregar Destino",
+      "editDestination": "Editar Destino",
+      "deleteDestination": "Eliminar Destino",
+      "featured": "Destinos Destacados"
+    },
+    "packages": {
+      "title": "Gestión de Paquetes",
+      "addPackage": "Agregar Paquete",
+      "editPackage": "Editar Paquete",
+      "deletePackage": "Eliminar Paquete",
+      "featured": "Paquetes Destacados"
+    }
+  },
+  "errors": {
+    "404": {
+      "title": "Página No Encontrada",
+      "message": "La página que buscas no existe",
+      "backHome": "Volver al Inicio"
+    },
+    "500": {
+      "title": "Error del Servidor",
+      "message": "Algo salió mal en nuestro servidor",
+      "tryAgain": "Intentar de Nuevo"
+    },
+    "network": {
+      "title": "Error de Red",
+      "message": "Por favor verifica tu conexión a internet",
+      "retry": "Reintentar"
+    }
+  },
+  "validation": {
+    "required": "Este campo es requerido",
+    "email": "Por favor ingresa un correo electrónico válido",
+    "password": "La contraseña debe tener al menos 6 caracteres",
+    "confirmPassword": "Las contraseñas no coinciden",
+    "phone": "Por favor ingresa un número de teléfono válido",
+    "date": "Por favor ingresa una fecha válida",
+    "number": "Por favor ingresa un número válido",
+    "minLength": "Debe tener al menos {{min}} caracteres",
+    "maxLength": "No debe tener más de {{max}} caracteres",
+    "minValue": "Debe ser al menos {{min}}",
+    "maxValue": "No debe ser más de {{max}}"
+  },
+  "messages": {
+    "bookingSuccess": "¡Reserva confirmada exitosamente!",
+    "bookingError": "Error al crear la reserva. Por favor intenta de nuevo.",
+    "loginSuccess": "¡Inicio de sesión exitoso!",
+    "loginError": "Correo electrónico o contraseña inválidos.",
+    "registerSuccess": "¡Registro exitoso!",
+    "registerError": "Error en el registro. Por favor intenta de nuevo.",
+    "profileUpdateSuccess": "¡Perfil actualizado exitosamente!",
+    "profileUpdateError": "Error al actualizar el perfil. Por favor intenta de nuevo.",
+    "passwordChangeSuccess": "¡Contraseña cambiada exitosamente!",
+    "passwordChangeError": "Error al cambiar la contraseña. Por favor intenta de nuevo.",
+    "logoutSuccess": "¡Sesión cerrada exitosamente!",
+    "deleteConfirm": "¿Estás seguro de que quieres eliminar este elemento?",
+    "deleteSuccess": "¡Elemento eliminado exitosamente!",
+    "deleteError": "Error al eliminar el elemento. Por favor intenta de nuevo.",
+    "saveSuccess": "¡Guardado exitosamente!",
+    "saveError": "Error al guardar. Por favor intenta de nuevo.",
+    "featureToggleSuccess": "¡Función actualizada exitosamente!",
+    "featureToggleError": "Error al actualizar la función. Por favor intenta de nuevo."
+  }
+}
