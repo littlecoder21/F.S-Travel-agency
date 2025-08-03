@@ -40,7 +40,7 @@ import { useAuth } from './hooks/useAuth';
 import { useSettings } from './hooks/useSettings';
 
 // Styles
-import './styles/App.css';
+import './index.css';
 
 // Create a client
 const queryClient = new QueryClient({
@@ -63,9 +63,9 @@ function AppContent() {
 
   return (
     <Router>
-      <div className="App">
+      <div className="min-h-screen flex flex-col">
         <Navbar />
-        <main className="main-content">
+        <main className="flex-1">
           <Routes>
             {/* Public Routes */}
             <Route path="/" element={<HomePage />} />
